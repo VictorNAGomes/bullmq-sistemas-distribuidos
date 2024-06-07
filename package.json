@@ -1,0 +1,17 @@
+{
+  "name": "bullmq-sistemas-distribuidos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/app.js",
+  "author": "VictorNAGomes",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch app/app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "bullmq": "^5.4.6"
+  }
+}
